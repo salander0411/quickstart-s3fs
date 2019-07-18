@@ -1,7 +1,9 @@
 # S3FS 快速构建文件共享系统
 
 ## 简介
-通过 AWS 
+
+[S3FS](https://github.com/s3fs-fuse/s3fs-fuse) 是一个开源项目，它开源将 Amazon S3 的 Bucket 
+mount 到本地，从而使得可以像访问本地文件一样的方式访问 S3 内存储的文件。
 
 ## 前提
 
